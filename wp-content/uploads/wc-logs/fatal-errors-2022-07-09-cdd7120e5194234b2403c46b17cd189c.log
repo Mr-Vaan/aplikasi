@@ -1,0 +1,10 @@
+2022-07-09T10:20:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp new\htdocs\aplikasi\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\ReportExporter.php pada baris 8
+
+2022-07-09T10:21:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp new\htdocs\aplikasi\wp-content\plugins\woo-cart-abandonment-recovery\modules\cart-abandonment\class-cartflows-ca-email-templates.php pada baris 8
+
+2022-07-09T10:21:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp new\htdocs\aplikasi\wp-content\themes\astra\inc\builder\type\header\account\class-astra-header-account-component-loader.php pada baris 12
+
+2022-07-09T10:22:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp new\htdocs\aplikasi\wp-includes\functions.php pada baris 4488
+
+2022-07-09T10:24:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp new\htdocs\aplikasi\wp-includes\functions.php pada baris 6570
+
